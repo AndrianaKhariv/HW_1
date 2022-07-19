@@ -14,15 +14,7 @@ h3{
     color: #3fc7df;
     padding: 15px;
 }
-h4{
-  color: #3fc7df;
-  font-size: 20px;
-  padding: 20px;
-  background-color: #203572;
-  line-height: 10px;
-  text-align: left;
-  width: 60%;
-}
+
 * {
     box-sizing: border-box;
   }
